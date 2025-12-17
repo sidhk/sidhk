@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a Senior Backend Engineer and hands-on Tech Lead with **13+ years of experience** building, scaling, and owning backend systems for **SaaS platforms**. My core strength lies in designing reliable backend architectures, building secure and scalable **REST APIs**, and ensuring production stability for business‑critical systems.
+I’m a Senior Backend Engineer and hands-on Tech Lead with **12+ years of experience** building, scaling, and owning backend systems for **SaaS platforms**. My core strength lies in designing reliable backend architectures, building secure and scalable **REST APIs**, and ensuring production stability for business‑critical systems.
 
 I focus on **practical engineering** — writing clean backend code, making sound architecture decisions, and reducing risk in production environments. I enjoy mentoring engineers, reviewing code, and working closely with product and frontend teams to deliver systems that scale.
 
@@ -52,7 +52,7 @@ I focus on **practical engineering** — writing clean backend code, making soun
 ## 📫 Let’s Connect
 
 * **LinkedIn:** [https://www.linkedin.com/in/sidharthkumar1/]
-* **Email:** sidhkumarx@gmail.com
+* **Email:** sidh.kumar401@gmail.com
 
 I’m always open to meaningful discussions around backend architecture, SaaS platforms, and engineering leadership.
 
